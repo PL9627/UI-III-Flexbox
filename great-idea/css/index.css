@@ -205,7 +205,7 @@ div.features-2 {
 
 .serv-about button {
 	position: absolute;
-	transform: translate(-160%, 400%);
+	transform: translate(-178%, 400%);
 	border-radius: 7px;
 	font-size: 70%;
 }
@@ -237,7 +237,7 @@ div.features-2 {
 	border: 1px solid black;
 	margin-right: 2%;
 	background: #F5F5F5;
-	padding-bottom: 100px;
+	padding: 20px 20px 100px 20px;
 }
 
 .ux {
@@ -246,6 +246,7 @@ div.features-2 {
 	border: 1px solid black;
 	margin-left: 2%;
 	background: #F5F5F5;
+	padding: 20px 20px 100px 20px;
 }
 
 
@@ -256,6 +257,7 @@ div.features-2 {
 	margin-right: 2%;
 	background: #F5F5F5;
 	padding-bottom: 100px;
+	padding: 20px 20px 100px 20px;
 }
 
 .web-dev {
@@ -264,6 +266,7 @@ div.features-2 {
 	border: 1px solid black;
 	margin-left: 2%;
 	background: #F5F5F5;
+	padding: 20px 20px 100px 20px;
 }
 
 .ios-dev {
@@ -273,6 +276,7 @@ div.features-2 {
 	margin-right: 2%;
 	background: #F5F5F5;
 	padding-bottom: 100px;
+	padding: 20px 20px 100px 20px;
 }
 
 .android-dev {
@@ -281,6 +285,7 @@ div.features-2 {
 	border: 1px solid black;
 	margin-left: 2%;
 	background: #F5F5F5;
+	padding: 20px 20px 100px 20px;
 }
 
 .facts {
